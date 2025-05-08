@@ -1,2 +1,2 @@
 # repoCLI
-desde CLI
+Practica de configuración GitHub desde CLI
